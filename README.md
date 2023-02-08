@@ -1,10 +1,12 @@
 # Automatization for DevOps 🔧
 
-## Automatization For Linux Red Hat Enterprise
+Serie de scripts realizados en Bash para automatizar la instalación de Java, Docker, Kubernetes y Ansible en un sistema Linux
 
-Este script actualiza la lista de paquetes y luego instala Java, Docker, Kubernetes y Ansible. 
-Verifica la versión de cada componente después de la instalación para asegurarse de que se hayan instalado correctamente.
+## Automatization For Linux (Red Hat / Ubuntu)
 
-_Ejemplo de ejecución:_
+Estos scripts actualizan la lista de paquetes y luego instalan Java, Docker, Kubernetes y Ansible según la disto correspondiente. 
+Verifican la versión de cada componente después de la instalación para asegurarse de que se hayan instalado correctamente.
+
+_Ejemplo de ejecución para Linux Red Hat:_
 
 bash RedHatAutom.sh
